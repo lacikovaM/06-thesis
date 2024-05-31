@@ -66,23 +66,36 @@ When one of the spider-men is telling his story – the screen splits into comic
 
 ## SLIDE 11
 ![SLIDE 11](Photos-slides/11.png)
+
 The same technique is used when Miles is overwhelmed - all the sources of noises are huge and popping behind him. 
 
 ## SLIDE 12
+![SLIDE 12](Photos-slides/12.png)
+
 To increase the stylized look, the animators turned off motion blur in the animation software and used SMEARS instead. This method is used on fast moving objects, mostly in 2D animation by adding extra lines or shapes.
 
 ## SLIDE 13
+
 Here is the work behind the method.
+
+![SLIDE 13](Photos-slides/13.png)
 
 In the bigger pictures there are frames from the movie and in the smaller pictures there are screenshots from the software – it is initially what the person who is working on the scene sees.
 
 ## SLIDE 14
+![SLIDE 14](Photos-slides/14.png)
+
 Here are 9 frames from the movie that showcase a distinguishable visual style. This movie is truly a piece of art – every frame is unique illustration.
 
+
 ## SLIDE 15
+![SLIDE 15](Photos-slides/15.png)
+
 First thing that make those illustrations pop are onomatopoeias. It is used to indicate sound and action. All the pictures I have here are frames from the movie except the top left one, which is from the official art book that I own.
 
 ## SLIDE 16
+![SLIDE 16](Photos-slides/16.png)
+
 Second thing that makes the illustration pop is line art on the characters’ 3D models. The artists used a specific software that they trained to create the lines.
 
 If this had been drawn manually, it would have required an immense amount of labour. While this could be considered a form of artificial intelligence, in this context, it doesn't replace the artist but actually assists them.
