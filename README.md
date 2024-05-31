@@ -31,3 +31,50 @@ The bottom left is hatching that they used in the movie to shade dark areas. The
 
 The right column shows the panels of Spider-man’s origin story – the comic itself is in the movie.
 
+## SLIDE 6
+In the left picture is another example – THE KIRBI DOTS – named after the characteristic element of Jack Kirbi’s art style.
+
+On the right is the use of the dots in the film.
+
+## SLIDE 7 & 8 
+
+As I mentioned before, the movie takes ideas for the story from the comics.
+
+On the left is the panel in the comic and on the right is the moment in the movie - 
+
+– and so is here. 
+
+
+## SLIDE 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
