@@ -46,27 +46,35 @@ On the left is the panel in the comic and on the right is the moment in the movi
 
 
 ## SLIDE 9
+As I said before, the movie demonstrates itself as a comic – here each spider-character has their own spider-man volume.
 
+## SLIDE 10
+When one of the spider-men is telling his story – the screen splits into comic book panels that are divided by spider webs.
 
+## SLIDE 11
+The same technique is used when Miles is overwhelmed - all the sources of noises are huge and popping behind him. 
 
+## SLIDE 12
+To increase the stylized look, the animators turned off motion blur in the animation software and used SMEARS instead. This method is used on fast moving objects, mostly in 2D animation by adding extra lines or shapes.
 
+## SLIDE 13
+Here is the work behind the method.
 
+In the bigger pictures there are frames from the movie and in the smaller pictures there are screenshots from the software – it is initially what the person who is working on the scene sees.
 
+## SLIDE 14
+Here are 9 frames from the movie that showcase a distinguishable visual style. This movie is truly a piece of art – every frame is unique illustration.
 
+## SLIDE 15
+First thing that make those illustrations pop are onomatopoeias. It is used to indicate sound and action. All the pictures I have here are frames from the movie except the top left one, which is from the official art book that I own.
 
+## SLIDE 16
 
+## SLIDE 17
 
+## SLIDE 18
 
-
-
-
-
-
-
-
-
-
-
+## SLIDE 19
 
 
 
