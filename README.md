@@ -21,7 +21,13 @@ As I was doing research for this project, I kept finding more and more captivati
 ## SLIDE 5
 Starting with the first component of this movie – THE OVERALL VISUAL STYLE - The creators drew inspiration from the classic Marvel comics and so they did with the story.  
 
-The pictures that I have here are the examples of the various inspirations. The top left picture is onomatopoeia. The bottom left is hatching that they used in the movie to shade dark areas. They also used half tones and colour separation to:  first – light an objects within the scene; second – to show depth of field and not use lens blur. The right column shows the panels of Spider-man’s origin story – the comic itself is in the movie.
+The pictures that I have here are the examples of the various inspirations. 
+
+The top left picture is onomatopoeia.
+
+The bottom left is hatching that they used in the movie to shade dark areas. They also used half tones and colour separation to:  first – light an objects within the scene; second – to show depth of field and not use lens blur. 
+
+The right column shows the panels of Spider-man’s origin story – the comic itself is in the movie.
 
 ## SLIDE 6
 In the left picture is another example – THE KIRBI DOTS – named after the characteristic element of Jack Kirbi’s art style.
@@ -61,7 +67,9 @@ Here are 9 frames from the movie that showcase a distinguishable visual style. T
 First thing that make those illustrations pop are onomatopoeias. It is used to indicate sound and action. All the pictures I have here are frames from the movie except the top left one, which is from the official art book that I own.
 
 ## SLIDE 16
-Second thing that makes the illustration pop is line art on the characters’ 3D models. The artists used a specific software that they trained to create the lines. If this had been drawn manually, it would have required an immense amount of labour. While this could be considered a form of artificial intelligence, in this context, it doesn't replace the artist but actually assists them.
+Second thing that makes the illustration pop is line art on the characters’ 3D models. The artists used a specific software that they trained to create the lines.
+
+If this had been drawn manually, it would have required an immense amount of labour. While this could be considered a form of artificial intelligence, in this context, it doesn't replace the artist but actually assists them.
 
 ## SLIDE 17
 The second component is CHARACTER DESIGN.
@@ -74,7 +82,11 @@ Now – let’s see the individual spiders!
 Firstly, the protagonist and hero of the movie – Miles Morales.
 
 ## SLIDE 19
-He dresses casually —hoodies, jeans, and sneakers— making him already a relatable teenager. After Miles gets bitten by radioactive spider - over time, he discovers his unique powers, including invisibility and electricity. As he wants to learn his role as Spider-Man, he starts by buying a cheap merch of the Spider-Man suit for kids, obviously it doesn’t fit him. During this phase he is animated at only 12 frames per second (to be precise each pose is hold for two seconds).
+He dresses casually —hoodies, jeans, and sneakers— making him already a relatable teenager.
+
+After Miles gets bitten by radioactive spider - over time, he discovers his unique powers, including invisibility and electricity.
+
+As he wants to learn his role as Spider-Man, he starts by buying a cheap merch of the Spider-Man suit for kids, obviously it doesn’t fit him. During this phase he is animated at only 12 frames per second (to be precise each pose is hold for two seconds).
 
 ## SLIDE 20
 These sketches from the art book are highlighting his journey as a teenager and a superhero.
@@ -86,8 +98,13 @@ A pivotal moment tied to Miles Morales' character development is a famous "Leap 
 
 ## SLIDE 23 
 
-Here I have pictures from the creation of the scene and the frames from the movie. In left column the first two pictures are the layout in the animation software and the last one is the shot from the movie.
-In the middle and right column: it’s what the animators sees and the second are the frames. Additionally, the script of the scene provides context and dialogue, tying together the visual elements with the narrative.
+Here I have pictures from the creation of the scene and the frames from the movie.
+
+In left column the first two pictures are the layout in the animation software and the last one is the shot from the movie.
+
+In the middle and right column: it’s what the animators sees and the second are the frames.
+
+Additionally, the script of the scene provides context and dialogue, tying together the visual elements with the narrative.
 
 ## SLIDE 24
 Here are more frames from the scene. The right photo once again evokes a comic book feel.
@@ -106,7 +123,15 @@ After this scene Miles Morales is now Spider-man of this universe therefore he g
 Other component of this movie are visual parallels that depict how Miles evolves as a hero through the movie.  Here are some examples:
 
 ## SLIDE 28
-In the left column I have moments before Miles becomes Spider-man and then the right one is after it. The first row shows Peter Parker confidently being Spider-Man, then Miles Morales fits into the role of a hero. In the second row when Miles is trying to be Spider-Man in a cheap suit, he falls down yelling in horror. However, after taking leap of faith, he is screaming in excitement because he is having so much fun as a Spider-man now. In the third row he does not fit into the mask of Spider-man and then he does. In the last row Miles’ uncle gives him an advice that he later uses to defeat the villain.
+In the left column I have moments before Miles becomes Spider-man and then the right one is after it.
+
+The first row shows Peter Parker confidently being Spider-Man, then Miles Morales fits into the role of a hero.
+
+In the second row when Miles is trying to be Spider-Man in a cheap suit, he falls down yelling in horror. However, after taking leap of faith, he is screaming in excitement because he is having so much fun as a Spider-man now.
+
+In the third row he does not fit into the mask of Spider-man and then he does. 
+
+In the last row Miles’ uncle gives him an advice that he later uses to defeat the villain.
 
 
 ## SLIDE 29
@@ -114,13 +139,25 @@ At last, this moment during the final fight, Miles uses the move he saw Peter Pa
 / PUt THE GIF HERE / 
 
 ## SLIDE 30
-Two mentors essential to Miles' hero development are PETER PARKER (whom the people in the studio call RIPeter) and PETER B. PARKER (the "B" stands for burnout). While RIPeter sends Miles on the journey to become Spider-Man and destroy the collider (the machine that pulls the other spider-characters from their dimensions.) Peter B. Parker teaches Miles how to be Spider-Man and is the one who tells him to take a leap of faith. The designs of both Peters have the same base, but they are two different characters with different personalities, which is reflected in their designs. Peter Parker is the perfect superhero, essentially a celebrity, with blond hair, blue eyes, a perfect build, and a flawless face. Peter B. Parker, on the other hand, is tired and depressed after being left by MJ. He is burned out, wears sweatpants over his suit, and has been eating a lot of junk food.
+Two mentors essential to Miles' hero development are PETER PARKER (whom the people in the studio call RIPeter) and PETER B. PARKER (the "B" stands for burnout).
+
+While RIPeter sends Miles on the journey to become Spider-Man and destroy the collider (the machine that pulls the other spider-characters from their dimensions.) Peter B. Parker teaches Miles how to be Spider-Man and is the one who tells him to take a leap of faith.
+
+The designs of both Peters have the same base, but they are two different characters with different personalities, which is reflected in their designs.
+
+Peter Parker is the perfect superhero, essentially a celebrity, with blond hair, blue eyes, a perfect build, and a flawless face.
+
+Peter B. Parker, on the other hand, is tired and depressed after being left by MJ. He is burned out, wears sweatpants over his suit, and has been eating a lot of junk food.
 
 ## SLIDE 31
 Miles and the Peters are not the only Spider-Men in this movie. In the frame shown here, from left to right, we have Spider-Gwen, Peni Parker, Spider-Man Noir, and Spider-Ham.
 
 ## SLIDE 32
-First character is Spider-Gwen.  Her suit design resembles a ballerina, which reflects in her fighting style and in the animation. The hood adds a modern touch to the suit. In the pictures I have here is Gwen’s own comic book issue, her variant of spider-man pose, her hair cut, suit design and few frames from the movie like her next to Miles and Peter B. Parker. In the bottom left picture, you can see another use of smears. In this scene she is very fast compared to Miles’ and Peter B.’s messy combination of swinging styles. 
+First character is Spider-Gwen.  Her suit design resembles a ballerina, which reflects in her fighting style and in the animation. The hood adds a modern touch to the suit.
+
+In the pictures I have here is Gwen’s own comic book issue, her variant of spider-man pose, her hair cut, suit design and few frames from the movie like her next to Miles and Peter B. Parker.
+
+In the bottom left picture, you can see another use of smears. In this scene she is very fast compared to Miles’ and Peter B.’s messy combination of swinging styles. 
 
 ## SLIDE 33
 Next character is Spider-Ham. He is the most cartoon-like of them all because his animation is inspired by Looney Tunes. For example, when he smells delicious food, he starts to float, or he pulls a big wooden hammer out of nowhere. 
