@@ -6,6 +6,8 @@
 Imagine a cinematic experience where the lines between comic book panels and the big screen blur, where animation crosses boundaries to create a VISUAL MASTERPIECE.
 
 ## SLIDE 2
+![x](Photos-slides/02.png)
+
 Welcome to the visual web of Spider-Man: Into the Spider-Verse.
 
 ## SLIDE 3
