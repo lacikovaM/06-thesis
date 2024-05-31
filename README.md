@@ -234,8 +234,10 @@ In conclusion Spider-Man: Into the Spider-Verse with its uniqueness, initiated a
 
 
 ## SLIDE 42
+
 **`Post credit scene type of vibe. `**
 
 And then 5 years later second Spider-verse movie came along.
 
+![SLIDE 42](Photos-slides/42.gif)
 
