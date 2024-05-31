@@ -102,6 +102,7 @@ If this had been drawn manually, it would have required an immense amount of lab
 
 ## SLIDE 17
 The second component is CHARACTER DESIGN.
+![SLIDE 17](Photos-slides/17.png)
 
 Great example is in the picture that I have here. The creators of this movie wanted to amplify the spider design, so the characters together resemble a huge spider. 
 
@@ -109,9 +110,12 @@ Now – let’s see the individual spiders!
 
 ## SLIDE 18
 Firstly, the protagonist and hero of the movie – Miles Morales.
+![SLIDE 18](Photos-slides/18.png)
 
 ## SLIDE 19
-He dresses casually —hoodies, jeans, and sneakers— making him already a relatable teenager.
+![SLIDE 19](Photos-slides/19.png)
+
+He dresses casually — hoodies, jeans, and sneakers — making him already a relatable teenager.
 
 After Miles gets bitten by radioactive spider - over time, he discovers his unique powers, including invisibility and electricity.
 
@@ -119,9 +123,13 @@ As he wants to learn his role as Spider-Man, he starts by buying a cheap merch o
 
 ## SLIDE 20
 These sketches from the art book are highlighting his journey as a teenager and a superhero.
+![SLIDE 20](Photos-slides/20.png)
+
 
 ## SLIDE 21 & 22
 **`First is the animation of the slides. `**
+
+![SLIDE 21](Photos-slides/21_22.png)
 
 A pivotal moment tied to Miles Morales' character development is a famous "Leap of Faith" scene – it symbolizes his confidence as he embraces his identity as Spider-Man. This ties to Miles’s version of Spider-man costume design and the 3D model of the environment he is in.
 
