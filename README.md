@@ -110,6 +110,7 @@ Now – let’s see the individual spiders!
 
 ## SLIDE 18
 Firstly, the protagonist and hero of the movie – Miles Morales.
+
 ![SLIDE 18](Photos-slides/18.png)
 
 ## SLIDE 19
@@ -257,13 +258,15 @@ I have showed you the good guys of the story, now I present you the main villain
 
 
 ## SLIDE 37
-
+![SLIDE 37](Photos-slides/37.png)
 
 In terms of his design, he's simply a gigantic black square – as shown in the left picture.  Next to it I have exploratory sketches from the development of the movie. The top ones are his fighting style the bottom ones are his expressions with him taking up majority of the canvas’ space.
 
 
 ## SLIDE 38
 In the photos is his design in action.
+
+![SLIDE 38](Photos-slides/38.png)
 
 The shots of Kingpin are often taken from below to emphasize his power. Although in the 1st picture of the left column Kingpin is tall, Olivia Octavius rises above him, signifying his losing power.
 
@@ -275,16 +278,19 @@ The pain from the loss of his wife and son, drives him to override basic moral v
 
 
 ## SLIDE 39 
+![SLIDE 39](Photos-slides/39.png)
+
 While Spider-Man: Into the Spider-Verse was still in making so was the series Arcane (2021) both works combine 2D and 3D. And these animated works both inspired the wave of stylised mixture of 3d and 2d elements like the film The Bad Guys (2022) and a movie Teenage Mutant Ninja Turtles: Mutant Mayhem (2023). 
 
 ## SLIDE 40
+![SLIDE 40](Photos-slides/40.png)
+
 In conclusion Spider-Man: Into the Spider-Verse with its uniqueness, initiated a new trend in the animation industry, mainly the combination of 3D and 2D animation. In my opinion, this is amazing because it represents a significant step forward from the constant live-action adaptations and remakes. At the same time, it also returns to the roots of classic 2D animation.
 
 
 ## SLIDE  41
-**`DRAMATIC SOUND! `**
 
-
+[**`DRAMATIC SOUND! `**](https://open.spotify.com/track/6iD9kcWB4h25t7OX8Xk6wT?si=9e9e5ab0b5054213)
 
 ## SLIDE 42
 
