@@ -23,13 +23,7 @@ So - take this as a summary or an invitation to my bachelor essay.
 ## SLIDE 5
 Starting with the first component of this movie – THE OVERALL VISUAL STYLE - The creators drew inspiration from the classic Marvel comics and so they did with the story.  
 
-The pictures that I have here are the examples of the various inspirations. 
-
-The top left picture is onomatopoeia.
-
-The bottom left is hatching that they used in the movie to shade dark areas. They also used half tones and colour separation to:  first – light an objects within the scene; second – to show depth of field and not use lens blur.
-
-The right column shows the panels of Spider-man’s origin story – the comic itself is in the movie.
+The pictures that I have here are the examples of the various inspirations. The top left picture is onomatopoeia. The bottom left is hatching that they used in the movie to shade dark areas. They also used half tones and colour separation to:  first – light an objects within the scene; second – to show depth of field and not use lens blur. The right column shows the panels of Spider-man’s origin story – the comic itself is in the movie.
 
 ## SLIDE 6
 In the left picture is another example – THE KIRBI DOTS – named after the characteristic element of Jack Kirbi’s art style.
@@ -69,9 +63,7 @@ Here are 9 frames from the movie that showcase a distinguishable visual style. T
 First thing that make those illustrations pop are onomatopoeias. It is used to indicate sound and action. All the pictures I have here are frames from the movie except the top left one, which is from the official art book that I own.
 
 ## SLIDE 16
-Second thing that makes the illustration pop is line art on the characters’ 3D models. The artists used a specific software that they trained to create the lines.
-
-If this had been drawn manually, it would have required an immense amount of labour. While this could be considered a form of artificial intelligence, in this context, it doesn't replace the artist but actually assists them.
+Second thing that makes the illustration pop is line art on the characters’ 3D models. The artists used a specific software that they trained to create the lines. If this had been drawn manually, it would have required an immense amount of labour. While this could be considered a form of artificial intelligence, in this context, it doesn't replace the artist but actually assists them.
 
 ## SLIDE 17
 The second component is CHARACTER DESIGN.
@@ -84,11 +76,7 @@ Now – let’s see the individual spiders!
 Firstly, the protagonist and hero of the movie – Miles Morales.
 
 ## SLIDE 19
-He dresses casually —hoodies, jeans, and sneakers— making him already a relatable teenager.
-
-After Miles gets bitten by radioactive spider - over time, he discovers his unique powers, including invisibility and electricity.
-
-As he wants to learn his role as Spider-Man, he starts by buying a cheap merch of the Spider-Man suit for kids, obviously it doesn’t fit him. During this phase he is animated at only 12 frames per second (to be precise each pose is hold for two seconds).
+He dresses casually —hoodies, jeans, and sneakers— making him already a relatable teenager. After Miles gets bitten by radioactive spider - over time, he discovers his unique powers, including invisibility and electricity. As he wants to learn his role as Spider-Man, he starts by buying a cheap merch of the Spider-Man suit for kids, obviously it doesn’t fit him. During this phase he is animated at only 12 frames per second (to be precise each pose is hold for two seconds).
 
 ## SLIDE 20
 These sketches from the art book are highlighting his journey as a teenager and a superhero.
@@ -98,7 +86,15 @@ These sketches from the art book are highlighting his journey as a teenager and 
 
 A pivotal moment tied to Miles Morales' character development is a famous "Leap of Faith" scene – it symbolizes his confidence as he embraces his identity as Spider-Man. This ties to Miles’s version of Spider-man costume design and the 3D model of the environment he is in.
 
-## SLIDE 
+## SLIDE 23 
+
+Here I have pictures from the creation of the scene and the frames from the movie. 
+
+In left column the first two pictures are the layout in the animation software and the last one is the shot from the movie.
+
+In the middle and right column: it’s what the animators sees and the second are the frames.
+
+Additionally, the script of the scene provides context and dialogue, tying together the visual elements with the narrative.
 
 ## SLIDE 
 
