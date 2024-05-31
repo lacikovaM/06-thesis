@@ -220,6 +220,8 @@ In the pictures I have here is Gwen’s own comic book issue, her variant of spi
 In the bottom left picture, you can see another use of smears. In this scene she is very fast compared to Miles’ and Peter B.’s messy combination of swinging styles. 
 
 ## SLIDE 33
+![SLIDE 33](Photos-slides/33.png)
+
 Next character is Spider-Ham. He is the most cartoon-like of them all because his animation is inspired by Looney Tunes. For example, when he smells delicious food, he starts to float, or he pulls a big wooden hammer out of nowhere. 
 
 The sketches from the art book show how the artist experimented with Spider-Ham’s cartoon poses.
@@ -227,6 +229,8 @@ The sketches from the art book show how the artist experimented with Spider-Ham�
 When he falls back into the collider and returns to his universe, the city is depicted in a cartoony style, matching his aesthetic.
 
 ## SLIDE 34 & 35
+![SLIDE 34](Photos-slides/34.png)
+
 Another exaggerated character is Peni Parker. For her the designers drew inspiration from anime and manga, so her animation is in classic anime poses and movements.
 
 Above her name there is expression sheet in which the artist played with her anime-hood.
@@ -243,14 +247,18 @@ She has very bright colours in her design contrary to her is –
 
 Spider-Man Noir collider city is obviously matching his aesthetic. 
 
+![SLIDE 35](Photos-slides/35.png)
+
  
-
 ## SLIDE  36 
-
 I have showed you the good guys of the story, now I present you the main villain – KINGPIN!
+
+![SLIDE 36](Photos-slides/36.png)
 
 
 ## SLIDE 37
+
+
 In terms of his design, he's simply a gigantic black square – as shown in the left picture.  Next to it I have exploratory sketches from the development of the movie. The top ones are his fighting style the bottom ones are his expressions with him taking up majority of the canvas’ space.
 
 
