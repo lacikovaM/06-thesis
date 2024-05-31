@@ -55,16 +55,17 @@ On the left is the panel in the comic and on the right is the moment in the movi
 ![SLIDE 8](Photos-slides/08.png)
 
 ## SLIDE 9
-![SLIDE ](Photos-slides/09.png)
+![SLIDE 9](Photos-slides/09.png)
 
 As I said before, the movie demonstrates itself as a comic – here each spider-character has their own spider-man volume.
 
 ## SLIDE 10
-![SLIDE ](Photos-slides/10.png)
+![SLIDE 10](Photos-slides/10.png)
 
 When one of the spider-men is telling his story – the screen splits into comic book panels that are divided by spider webs.
 
 ## SLIDE 11
+![SLIDE 11](Photos-slides/11.png)
 The same technique is used when Miles is overwhelmed - all the sources of noises are huge and popping behind him. 
 
 ## SLIDE 12
