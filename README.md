@@ -6,16 +6,18 @@
 Imagine a cinematic experience where the lines between comic book panels and the big screen blur, where animation crosses boundaries to create a VISUAL MASTERPIECE.
 
 ## SLIDE 2
-![x](Photos-slides/02.png)
+![SLIDE 2](Photos-slides/02.png)
 
 Welcome to the visual web of Spider-Man: Into the Spider-Verse.
 
 ## SLIDE 3
+![SLIDE 3](Photos-slides/03.png)
 This Oscar-winning movie CHANGED the animated film industry with its groundbreaking use of 3D and 2D animation.
 
 Let’s explore the visual world of Spider-Man: Into the Spider-Verse, its main HERO – MILES with other spider-characters and the main villain Kingpin.
 
 ## SLIDE 4
+![SLIDE ](Photos-slides/04.png)
 Before I dive into the wonders of it all, I would like to state THE REASON I chose this film as the focus of my bachelor essay. This movie just FASCINATES me! Its visuals storytelling, the characters’ journey, the message that it is showing, the wonderful soundtrack that I listen to daily, and the voice acting is just as amazing as the animation.
 
 As I was doing research for this project, I kept finding more and more captivating information about the whole creative process - I had to choose what things to include. So - take this as a summary or an invitation to my bachelor essay.
