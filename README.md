@@ -1,6 +1,8 @@
-# 06-thesis:  The Visual Web of Spider-Man: Into the Spider-Verse.
 [![WATCH THE VIDEO PRESENTATION HERE](Photos-slides/00.png)](https://drive.google.com/file/d/1Ha67FUU2XPJKaCEItYDMT8LmiNXkBjgu/view?usp=sharing)
 
+
+
+# **`The Visual Web of Spider-Man: Into the Spider-Verse`**
 
 ## SLIDE 1
 Imagine a cinematic experience where the lines between comic book panels and the big screen blur, where animation crosses boundaries to create a VISUAL MASTERPIECE.
