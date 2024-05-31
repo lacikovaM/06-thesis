@@ -69,20 +69,42 @@ Here are 9 frames from the movie that showcase a distinguishable visual style. T
 First thing that make those illustrations pop are onomatopoeias. It is used to indicate sound and action. All the pictures I have here are frames from the movie except the top left one, which is from the official art book that I own.
 
 ## SLIDE 16
+Second thing that makes the illustration pop is line art on the characters’ 3D models. The artists used a specific software that they trained to create the lines.
+
+If this had been drawn manually, it would have required an immense amount of labour. While this could be considered a form of artificial intelligence, in this context, it doesn't replace the artist but actually assists them.
 
 ## SLIDE 17
+The second component is CHARACTER DESIGN.
+
+Great example is in the picture that I have here. The creators of this movie wanted to amplify the spider design, so the characters together resemble a huge spider. 
+
+Now – let’s see the individual spiders!
 
 ## SLIDE 18
+Firstly, the protagonist and hero of the movie – Miles Morales.
 
 ## SLIDE 19
+He dresses casually —hoodies, jeans, and sneakers— making him already a relatable teenager.
 
+After Miles gets bitten by radioactive spider - over time, he discovers his unique powers, including invisibility and electricity.
 
+As he wants to learn his role as Spider-Man, he starts by buying a cheap merch of the Spider-Man suit for kids, obviously it doesn’t fit him. During this phase he is animated at only 12 frames per second (to be precise each pose is hold for two seconds).
 
+## SLIDE 20
+These sketches from the art book are highlighting his journey as a teenager and a superhero.
 
+## SLIDE 21 & 22
+**`First is the animation of the slides. `**
 
+A pivotal moment tied to Miles Morales' character development is a famous "Leap of Faith" scene – it symbolizes his confidence as he embraces his identity as Spider-Man. This ties to Miles’s version of Spider-man costume design and the 3D model of the environment he is in.
 
+## SLIDE 
 
+## SLIDE 
 
+## SLIDE 
 
+## SLIDE 
 
+## SLIDE 
 
