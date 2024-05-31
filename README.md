@@ -5,6 +5,8 @@
 ## SLIDE 1
 Imagine a cinematic experience where the lines between comic book panels and the big screen blur, where animation crosses boundaries to create a VISUAL MASTERPIECE.
 
+![SLIDE 1](Photos-slides/01.png)
+
 ## SLIDE 2
 ![SLIDE 2](Photos-slides/02.png)
 
@@ -290,6 +292,9 @@ In conclusion Spider-Man: Into the Spider-Verse with its uniqueness, initiated a
 ## SLIDE  41
 
 [**`DRAMATIC SOUND! `**](https://open.spotify.com/track/6iD9kcWB4h25t7OX8Xk6wT?si=9e9e5ab0b5054213)
+
+![SLIDE 1](Photos-slides/01.png)
+
 
 ## SLIDE 42
 
