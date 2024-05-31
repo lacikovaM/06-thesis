@@ -39,12 +39,14 @@ The right column shows the panels of Spider-man’s origin story – the comic i
 
 ## SLIDE 6
 ![SLIDE 6](Photos-slides/06.png)
+
 In the left picture is another example – THE KIRBI DOTS – named after the characteristic element of Jack Kirbi’s art style.
 
 On the right is the use of the dots in the film.
 
 ## SLIDE 7 & 8 
 ![SLIDE 7](Photos-slides/07.png)
+
 As I mentioned before, the movie takes ideas for the story from the comics.
 
 On the left is the panel in the comic and on the right is the moment in the movie - 
@@ -53,9 +55,13 @@ On the left is the panel in the comic and on the right is the moment in the movi
 ![SLIDE 8](Photos-slides/08.png)
 
 ## SLIDE 9
+![SLIDE ](Photos-slides/09.png)
+
 As I said before, the movie demonstrates itself as a comic – here each spider-character has their own spider-man volume.
 
 ## SLIDE 10
+![SLIDE ](Photos-slides/10.png)
+
 When one of the spider-men is telling his story – the screen splits into comic book panels that are divided by spider webs.
 
 ## SLIDE 11
