@@ -186,7 +186,8 @@ In the last row Miles’ uncle gives him an advice that he later uses to defeat 
 
 ## SLIDE 29
 At last, this moment during the final fight, Miles uses the move he saw Peter Parker do.
-/ PUt THE GIF HERE / 
+
+![SLIDE 29](Photos-slides/29.gif)
 
 ## SLIDE 30
 
