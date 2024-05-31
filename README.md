@@ -134,8 +134,9 @@ These sketches from the art book are highlighting his journey as a teenager and 
 A pivotal moment tied to Miles Morales' character development is a famous "Leap of Faith" scene – it symbolizes his confidence as he embraces his identity as Spider-Man. This ties to Miles’s version of Spider-man costume design and the 3D model of the environment he is in.
 
 ## SLIDE 23 
-
 Here I have pictures from the creation of the scene and the frames from the movie.
+
+![SLIDE 23](Photos-slides/23.png)
 
 In left column the first two pictures are the layout in the animation software and the last one is the shot from the movie.
 
@@ -146,20 +147,33 @@ Additionally, the script of the scene provides context and dialogue, tying toget
 ## SLIDE 24
 Here are more frames from the scene. The right photo once again evokes a comic book feel.
 
+![SLIDE 24](Photos-slides/24.png)
+
 ## SLIDE 25
 In the following video you will see the shots versus the scene.
 
 /put the video or GIF here/
 
 
-## SLIDE  26 
+## SLIDE 26 
+
 After this scene Miles Morales is now Spider-man of this universe therefore he gets his own spider comic-book volume.
+
+![SLIDE 26](Photos-slides/26.png)
 
 
 ## SLIDE 27
-Other component of this movie are visual parallels that depict how Miles evolves as a hero through the movie.  Here are some examples:
+
+Other component of this movie are visual parallels that depict how Miles evolves as a hero through the movie. 
+
+![SLIDE 27](Photos-slides/27.png)
+
+Here are some examples:
 
 ## SLIDE 28
+
+![SLIDE 28](Photos-slides/28.png)
+
 In the left column I have moments before Miles becomes Spider-man and then the right one is after it.
 
 The first row shows Peter Parker confidently being Spider-Man, then Miles Morales fits into the role of a hero.
@@ -176,7 +190,10 @@ At last, this moment during the final fight, Miles uses the move he saw Peter Pa
 / PUt THE GIF HERE / 
 
 ## SLIDE 30
+
 Two mentors essential to Miles' hero development are PETER PARKER (whom the people in the studio call RIPeter) and PETER B. PARKER (the "B" stands for burnout).
+
+![SLIDE 30](Photos-slides/30.png)
 
 While RIPeter sends Miles on the journey to become Spider-Man and destroy the collider (the machine that pulls the other spider-characters from their dimensions.) Peter B. Parker teaches Miles how to be Spider-Man and is the one who tells him to take a leap of faith.
 
@@ -187,9 +204,15 @@ Peter Parker is the perfect superhero, essentially a celebrity, with blond hair,
 Peter B. Parker, on the other hand, is tired and depressed after being left by MJ. He is burned out, wears sweatpants over his suit, and has been eating a lot of junk food.
 
 ## SLIDE 31
+
 Miles and the Peters are not the only Spider-Men in this movie. In the frame shown here, from left to right, we have Spider-Gwen, Peni Parker, Spider-Man Noir, and Spider-Ham.
 
+![SLIDE 31](Photos-slides/31.png)
+
 ## SLIDE 32
+
+![SLIDE 32](Photos-slides/32.png)
+
 First character is Spider-Gwen.  Her suit design resembles a ballerina, which reflects in her fighting style and in the animation. The hood adds a modern touch to the suit.
 
 In the pictures I have here is Gwen’s own comic book issue, her variant of spider-man pose, her hair cut, suit design and few frames from the movie like her next to Miles and Peter B. Parker.
