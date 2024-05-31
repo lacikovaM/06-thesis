@@ -149,9 +149,9 @@ Here are more frames from the scene. The right photo once again evokes a comic b
 ![SLIDE 24](Photos-slides/24.png)
 
 ## SLIDE 25
-In the following video you will see the shots versus the scene.
+In the following video  you will see the shots versus the scene.
 
-/put the video or GIF here/
+![SLIDE 25](Photos-slides/25.gif)
 
 
 ## SLIDE 26 
