@@ -128,9 +128,7 @@ These sketches from the art book are highlighting his journey as a teenager and 
 
 
 ## SLIDE 21 & 22
-**`First is the animation of the slides. `**
-
-![SLIDE 21](Photos-slides/21_22.png)
+![SLIDE 21](Photos-slides/21_22-2.gif)
 
 A pivotal moment tied to Miles Morales' character development is a famous "Leap of Faith" scene – it symbolizes his confidence as he embraces his identity as Spider-Man. This ties to Miles’s version of Spider-man costume design and the 3D model of the environment he is in.
 
